@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/funny.mp3-a2a0e05a5455b7f4ca12ff780fe7a650.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/funny.mp3"
+dest_files=[ "res://.import/funny.mp3-a2a0e05a5455b7f4ca12ff780fe7a650.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
